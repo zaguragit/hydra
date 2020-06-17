@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hydra</string>
+    <string name="posidonLauncher">posidon launcher</string>
+    <string name="apply">Apply</string>
+    <string name="list">list</string>
+    <string name="github">github</string>
+</resources>

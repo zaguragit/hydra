@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item drawable="abstruct"/>
+
+    <item drawable="andromeda"/>
+
+    <item drawable="awox"/>
+
+    <item drawable="calculator"/>
+
+    <item drawable="camera"/>
+
+    <item drawable="calendar"/>
+
+    <item drawable="chrome"/>
+
+    <item drawable="clock"/>
+
+    <item drawable="contacts"/>
+    <item drawable="contacts_alt0"/>
+
+    <item drawable="dialer"/>
+    <item drawable="dialer_alt0"/>
+    <item drawable="dialer_alt1"/>
+
+    <item drawable="docs"/>
+    <item drawable="drive"/>
+
+    <item drawable="duckduckgo"/>
+
+    <item drawable="fdroid"/>
+    <item drawable="fdroid_alt0"/>
+
+    <item drawable="files"/>
+    <item drawable="fileexplorer"/>
+    <item drawable="fileexplorer_alt0"/>
+
+    <item drawable="firefox"/>
+    <item drawable="firefox_nightly"/>
+
+    <item drawable="fluidgestures"/>
+
+    <item drawable="gallery"/>
+    <item drawable="gallery2"/>
+    <item drawable="gallery3"/>
+
+    <item drawable="gmail"/>
+    <item drawable="gmail_alt0"/>
+
+    <item drawable="google"/>
+    <item drawable="gpconsole"/>
+    <item drawable="gphotos"/>
+    <item drawable="gpstore"/>
+    <item drawable="gtasks"/>
+    <item drawable="gvoicesearch"/>
+
+    <item drawable="ic_gca"/>
+
+    <item drawable="hbo"/>
+
+    <item drawable="instagram"/>
+
+    <item drawable="lightroom"/>
+    <item drawable="lightroom_alt0"/>
+    <item drawable="lightroom_alt1"/>
+    <item drawable="lightroom_alt2"/>
+
+    <item drawable="maps"/>
+    <item drawable="osmand"/>
+
+    <item drawable="mifit"/>
+    <item drawable="mifit_alt0"/>
+    <item drawable="mifit_alt1"/>
+
+    <item drawable="music"/>
+
+    <item drawable="netflix"/>
+
+    <item drawable="okuna"/>
+
+    <item drawable="onepluscommunity"/>
+
+    <item drawable="photomath"/>
+
+    <item drawable="playmemoriesmobile"/>
+
+    <item drawable="settings"/>
+    <item drawable="settings_alt0"/>
+    <item drawable="settings_alt1"/>
+    <item drawable="settings_alt2"/>
+
+    <item drawable="shutterstock"/>
+    <item drawable="shutterstockcontributor"/>
+
+    <item drawable="smartdoctor"/>
+
+    <item drawable="sms"/>
+    <item drawable="sms2"/>
+
+    <item drawable="snapseed"/>
+
+    <item drawable="soundrecorder"/>
+    <item drawable="soundrecorder_alt0"/>
+    <item drawable="soundrecorderoxygenos"/>
+
+    <item drawable="termux"/>
+    <item drawable="termux_alt0"/>
+    <item drawable="termux_alt1"/>
+
+    <item drawable="tidal"/>
+    <item drawable="tidal_alt0"/>
+
+    <item drawable="trello"/>
+    <item drawable="trello_alt0"/>
+    <item drawable="trello_alt1"/>
+    <item drawable="trello_alt2"/>
+
+    <item drawable="wallp"/>
+
+    <item drawable="whatsapp"/>
+    <item drawable="whatsappbusiness"/>
+
+    <item drawable="weather"/>
+
+    <item drawable="youtube"/>
+    <item drawable="ytmusic"/>
+</resources>

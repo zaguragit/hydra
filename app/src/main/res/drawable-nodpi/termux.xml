@@ -1,0 +1,47 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="2.6458333"
+            android:viewportHeight="2.6458335">
+            <path
+                android:pathData="m2.64581,1.32294c0.00004,1.05833 -0.26454,1.32292 -1.32291,1.32293 -1.0583,-0.00001 -1.32288,-0.2646 -1.32288,-1.32293 0,-1.05833 0.26458,-1.32292 1.32288,-1.32293 1.05837,0.00001 1.32295,0.2646 1.32291,1.32293z"
+                android:fillColor="#dd000000"
+                android:fillAlpha="1"/>
+            <path
+                android:pathData="M0.51431,0.79376 L1.01037,1.32294 0.51431,1.85208L0.76234,1.85208L1.2584,1.32294 0.76234,0.79376Z"
+                android:fillColor="#ffffff"
+                android:fillAlpha="1"/>
+            <path
+                android:name="underscore"
+                android:pathData="m1.38743,1.67917v0.17291h0.7441v-0.17291z"
+                android:fillColor="#ffffff"
+                android:fillAlpha="1"/>
+        </vector>
+    </aapt:attr>
+    <target android:name="underscore">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="600"
+                    android:duration="10"
+                    android:valueFrom="1"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1010"
+                    android:duration="10"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item component="ComponentInfo{com.hampusolsson.abstruct/com.hampusolsson.abstruct.splash.SplashActivity}" drawable="abstruct"/>
+
+    <item component="ComponentInfo{projekt.andromeda/projekt.andromeda.app.activity.InfoActivity}" drawable="andromeda"/>
+
+    <item component="ComponentInfo{com.awox.smart.control/com.awox.smart.control.SplashScreenActivity}" drawable="awox"/>
+
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator"/>
+
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera"/>
+
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome"/>
+
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock"/>
+
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
+
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="dialer"/>
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="dialer"/>
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="dialer"/>
+
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="docs"/>
+
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="drive"/>
+
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid"/>
+
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="fileexplorer"/>
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="fileexplorer"/>
+
+    <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefox"/>
+
+    <item component="ComponentInfo{com.fb.fluid/com.fb.fluid.ActivityMain}" drawable="fluidgestures"/>
+
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery/com.android.camera.GalleryPicker}" drawable="gallery"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery"/>
+
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail"/>
+
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google"/>
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="gvoicesearch"/>
+    <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="gpconsole"/>
+
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gphotos"/>
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="gpstore"/>
+    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="gtasks"/>
+
+    <item component="ComponentInfo{com.hbo.android.app/com.hbo.android.app.bootstrap.ui.StartupActivity}" drawable="hbo"/>
+
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+
+    <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="lightroom"/>
+
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps"/>
+    <item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand"/>
+
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit"/>
+
+    <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="music"/>
+
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix"/>
+
+    <item component="ComponentInfo{social.openbook.app/social.openbook.app.MainActivity}" drawable="okuna"/>
+
+    <item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="onepluscommunity"/>
+
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.LauncherActivity}" drawable="photomath"/>
+
+    <item component="ComponentInfo{com.sony.playmemories.mobile/com.sony.playmemories.mobile.splash.SplashActivity}" drawable="playmemoriesmobile"/>
+
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
+
+    <item component="ComponentInfo{com.shutterstock/com.shutterstock.activities.StartActivity}" drawable="shutterstock"/>
+
+    <item component="ComponentInfo{com.shutterstock.contributor/com.shutterstock.contributor.activities.StartActivity}" drawable="shutterstockcontributor"/>
+
+    <item component="ComponentInfo{com.lge.phonemanagement/com.lge.phonemanagement.ui.MainActivity}" drawable="smartdoctor"/>
+
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="sms"/>
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sms"/>
+
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
+
+    <item component="ComponentInfo{com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}" drawable="soundrecorder"/>
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="soundrecorderoxygenos"/>
+
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
+
+    <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>
+
+    <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
+
+    <item component="ComponentInfo{com.stresscodes.wallp/com.stresscodes.wallp.SplashScreen}" drawable="wallp"/>
+
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp"/>
+    <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsappbussines"/>
+
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
+
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="ytmusic"/>
+
+</resources>

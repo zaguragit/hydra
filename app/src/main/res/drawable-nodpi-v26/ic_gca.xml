@@ -1,0 +1,47 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background>
+        <vector
+            xmlns:aapt="http://schemas.android.com/aapt"
+            android:viewportHeight="6.6145835"
+            android:viewportWidth="6.614583"
+            android:width="108dp"
+            android:height="108dp">
+            <path
+                android:fillAlpha="1"
+                android:fillColor="#4285f4"
+                android:pathData="M0,0h6.61458v6.61458h-6.61458z"/>
+            <path
+                android:pathData="M0,0h6.61458v6.61458h-6.61458z">
+                <aapt:attr name="android:fillColor">
+                    <gradient
+                        android:startColor="#22ffffff"
+                        android:centerX="1"
+                        android:centerY="1"
+                        android:endColor="#00ffffff"
+                        android:gradientRadius="5"
+                        android:type="radial"/>
+                </aapt:attr>
+            </path>
+        </vector>
+    </background>
+    <foreground>
+        <vector
+            android:viewportHeight="6.6145835"
+            android:viewportWidth="6.614583"
+            android:width="108dp"
+            android:height="108dp">
+            <path
+                android:fillAlpha="1"
+                android:fillColor="#424242"
+                android:pathData="m2.64582,4.03372v-0.79375l0.66146,-0.79375 0.66146,0.79375v0.79375z"/>
+            <path
+                android:fillAlpha="0.1"
+                android:fillColor="#000000"
+                android:pathData="m3.30728,2.18314 l-0.88212,1.05833v1.05833h1.76423v-1.05833zM3.30728,2.51282 L3.96874,3.30658v0.79375h-1.32292v-0.79375z"/>
+            <path
+                android:fillAlpha="1"
+                android:fillColor="#f1f1f1"
+                android:pathData="m3.30728,2.11667 l-0.88212,1.05833v1.05833h1.76423v-1.05833zM3.30728,2.44635 L3.96874,3.24011v0.79375h-1.32292v-0.79375z"/>
+        </vector>
+    </foreground>
+</adaptive-icon>
