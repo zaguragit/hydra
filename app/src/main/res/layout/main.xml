@@ -59,8 +59,20 @@
         <LinearLayout
             android:onClick="applyPosidon"
             style="@style/applycard">
-            <ImageView style="@style/applycard_icon" android:src="@drawable/posidonlauncher"/>
+            <ImageView style="@style/applycard_icon" android:src="@drawable/posidon_launcher"/>
             <TextView style="@style/applycard_label" android:text="@string/posidonLauncher"/>
+        </LinearLayout>
+        <LinearLayout
+            android:onClick="applyLawnchair"
+            style="@style/applycard">
+            <ImageView style="@style/applycard_icon" android:src="@drawable/lawnchair_launcher"/>
+            <TextView style="@style/applycard_label" android:text="@string/lawnchairLauncher"/>
+        </LinearLayout>
+        <LinearLayout
+            android:onClick="applyNiagara"
+            style="@style/applycard">
+            <ImageView style="@style/applycard_icon" android:src="@drawable/niagara_launcher"/>
+            <TextView style="@style/applycard_label" android:text="@string/niagaraLauncher"/>
         </LinearLayout>
     </LinearLayout>
 </ScrollView>

@@ -41,8 +41,9 @@
     <item drawable="fluidgestures"/>
 
     <item drawable="gallery"/>
-    <item drawable="gallery2"/>
-    <item drawable="gallery3"/>
+    <item drawable="gallery_alt0"/>
+    <item drawable="gallery_alt1"/>
+    <item drawable="gallery_alt2"/>
 
     <item drawable="gmail"/>
     <item drawable="gmail_alt0"/>

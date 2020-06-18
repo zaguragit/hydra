@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">hydra</string>
 
-    <string name="list">list</string>
+    <string name="list">lista</string>
     <string name="github">github</string>
 
-    <string name="apply">Apply</string>
+    <string name="apply">Aplicar</string>
 
     <string name="posidonLauncher">posidon launcher</string>
     <string name="lawnchairLauncher">Lawnchair launcher</string>
