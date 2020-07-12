@@ -21,11 +21,11 @@
                 <aapt:attr name="android:strokeColor">
                     <gradient
                         android:startColor="#ff53febe"
-                        android:startX="108"
+                        android:startX="1.2"
                         android:startY="0"
                         android:endColor="#ff0290ee"
-                        android:endX="64"
-                        android:endY="264"
+                        android:endX="0.3"
+                        android:endY="2.64"
                         android:type="linear"/>
                 </aapt:attr>
             </path>

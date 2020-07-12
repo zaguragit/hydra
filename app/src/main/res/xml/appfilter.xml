@@ -92,9 +92,9 @@
 
     <item component="ComponentInfo{com.lge.phonemanagement/com.lge.phonemanagement.ui.MainActivity}" drawable="smartdoctor"/>
 
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms"/>
-    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="sms"/>
-    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sms"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
 
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
 
@@ -110,7 +110,7 @@
     <item component="ComponentInfo{com.stresscodes.wallp/com.stresscodes.wallp.SplashScreen}" drawable="wallp"/>
 
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp"/>
-    <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsappbussines"/>
+    <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsappbusiness"/>
 
     <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
 

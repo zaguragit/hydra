@@ -69,6 +69,15 @@
     <item drawable="maps"/>
     <item drawable="osmand"/>
 
+    <item drawable="messages"/>
+    <item drawable="messages_alt0"/>
+    <item drawable="messages_alt1"/>
+    <item drawable="messages_alt2"/>
+    <item drawable="messages_alt3"/>
+    <item drawable="messages_alt4"/>
+    <item drawable="messages_alt5"/>
+    <item drawable="messages_alt6"/>
+
     <item drawable="mifit"/>
     <item drawable="mifit_alt0"/>
     <item drawable="mifit_alt1"/>
@@ -95,14 +104,13 @@
 
     <item drawable="smartdoctor"/>
 
-    <item drawable="sms"/>
-    <item drawable="sms2"/>
-
     <item drawable="snapseed"/>
 
     <item drawable="soundrecorder"/>
     <item drawable="soundrecorder_alt0"/>
     <item drawable="soundrecorderoxygenos"/>
+
+    <item drawable="substratum"/>
 
     <item drawable="termux"/>
     <item drawable="termux_alt0"/>
@@ -118,10 +126,10 @@
 
     <item drawable="wallp"/>
 
+    <item drawable="weather"/>
+
     <item drawable="whatsapp"/>
     <item drawable="whatsappbusiness"/>
-
-    <item drawable="weather"/>
 
     <item drawable="youtube"/>
     <item drawable="ytmusic"/>
