@@ -1,8 +1,42 @@
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background>
-        <shape>
-            <solid android:color="#dd0a214d"/>
-        </shape>
+        <animated-vector
+            xmlns:aapt="http://schemas.android.com/aapt">
+            <aapt:attr name="android:drawable">
+                <vector
+                    android:width="1px"
+                    android:height="1px"
+                    android:viewportWidth="1"
+                    android:viewportHeight="1">
+                    <path
+                        android:name="bg"
+                        android:pathData="M0,0h1v1h-1z"
+                        android:fillColor="#F42A6A"/>
+                </vector>
+            </aapt:attr>
+            <target android:name="bg">
+                <aapt:attr name="android:animation">
+                    <set>
+                        <objectAnimator
+                            android:propertyName="fillColor"
+                            android:startOffset="1000"
+                            android:duration="3000"
+                            android:valueFrom="#AB48CF"
+                            android:valueTo="#ED3E98"
+                            android:valueType="colorType"
+                            android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                        <objectAnimator
+                            android:propertyName="fillColor"
+                            android:startOffset="5000"
+                            android:duration="3000"
+                            android:valueFrom="#ED3E98"
+                            android:valueTo="#AB48CF"
+                            android:valueType="colorType"
+                            android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                    </set>
+                </aapt:attr>
+            </target>
+        </animated-vector>
     </background>
     <foreground>
         <vector
@@ -17,18 +51,8 @@
                 android:strokeWidth="0.0359996"
                 android:strokeMiterLimit="3.82"
                 android:strokeLineJoin="round"
-                android:strokeLineCap="square">
-                <aapt:attr name="android:strokeColor">
-                    <gradient
-                        android:startColor="#ff53febe"
-                        android:startX="1.2"
-                        android:startY="0"
-                        android:endColor="#ff0290ee"
-                        android:endX="0.3"
-                        android:endY="2.64"
-                        android:type="linear"/>
-                </aapt:attr>
-            </path>
+                android:strokeLineCap="square"
+                android:strokeColor="#ffffff"/>
         </vector>
     </foreground>
 </adaptive-icon>

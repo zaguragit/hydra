@@ -3,7 +3,6 @@ package posidon.icons.hydra
 import android.content.ActivityNotFoundException
 import android.content.ComponentName
 import android.content.Intent
-import android.content.pm.PackageManager
 import android.net.Uri
 import android.os.Bundle
 import android.view.View
@@ -22,7 +21,7 @@ class Main : AppCompatActivity() {
     }
 
     fun applyPosidon(v: View) {
-        if (isInstalled("posidon.launcher", packageManager)) {
+        if (Tools.isInstalled("posidon.launcher", packageManager)) {
             Intent(Intent.ACTION_MAIN).apply {
                 component = ComponentName("posidon.launcher", "posidon.launcher.external.ApplyIcons")
                 putExtra("iconpack", packageName)
@@ -53,12 +52,6 @@ class Main : AppCompatActivity() {
         } catch (e: ActivityNotFoundException) {
             Toast.makeText(this, "Not installed", Toast.LENGTH_SHORT).show()
         }
-    }
-
-    private fun isInstalled(packageName: String, packageManager: PackageManager): Boolean {
-        try { packageManager.getPackageInfo(packageName, 0) }
-        catch (e: PackageManager.NameNotFoundException) { return false }
-        return true
     }
 
     fun list(v: View) {

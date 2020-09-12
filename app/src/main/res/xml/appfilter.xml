@@ -101,6 +101,8 @@
     <item component="ComponentInfo{com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}" drawable="soundrecorder"/>
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="soundrecorderoxygenos"/>
 
+    <item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="substratum"/>
+
     <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 
     <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>

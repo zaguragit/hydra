@@ -18,6 +18,8 @@
 
     <item drawable="contacts"/>
     <item drawable="contacts_alt0"/>
+    <item drawable="contacts_alt1"/>
+    <item drawable="contacts_alt2"/>
 
     <item drawable="dialer"/>
     <item drawable="dialer_alt0"/>
@@ -36,6 +38,7 @@
     <item drawable="fileexplorer_alt0"/>
 
     <item drawable="firefox"/>
+    <item drawable="firefox_focus"/>
     <item drawable="firefox_nightly"/>
 
     <item drawable="fluidgestures"/>

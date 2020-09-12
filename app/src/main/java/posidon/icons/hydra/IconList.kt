@@ -1,6 +1,5 @@
 package posidon.icons.hydra
 
-import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
@@ -16,6 +15,7 @@ import posidon.icons.hydra.tools.ThemeTools
 import posidon.icons.hydra.tools.Tools
 import posidon.icons.hydra.tools.copy
 import posidon.icons.hydra.tools.dp
+import posidon.icons.hydra.view.GridView
 
 class IconList : AppCompatActivity() {
 
@@ -69,8 +69,9 @@ class IconList : AppCompatActivity() {
 
         fun search(term: String) {
             searchResults.clear()
+            val searchOptimizedTerm = Tools.searchOptimize(term)
             for (string in icons) {
-                if (Tools.searchOptimize(string).contains(Tools.searchOptimize(term))) {
+                if (Tools.searchOptimize(string).contains(searchOptimizedTerm)) {
                     searchResults.add(string)
                 }
             }
@@ -96,8 +97,11 @@ class IconList : AppCompatActivity() {
             }
 
             val intRes = themeRes.getIdentifier(searchResults[i], "drawable", packageName)
-            if (intRes != 0) {
-                val drawable = Tools.animate(themeRes.getDrawable(intRes))
+            if (intRes == 0) {
+                viewHolder.icon.setImageDrawable(null)
+                viewHolder.icon.setOnClickListener(null)
+            } else {
+                val drawable = Tools.tryAnimate(themeRes.getDrawable(intRes, null))
                 viewHolder.icon.setImageDrawable(drawable)
                 viewHolder.icon.setOnClickListener {
                     BottomSheetDialog(this@IconList, R.style.bottomsheet).run {
@@ -105,7 +109,7 @@ class IconList : AppCompatActivity() {
                             orientation = LinearLayout.VERTICAL
                             gravity = Gravity.CENTER_HORIZONTAL
                             addView(ImageView(context).apply {
-                                setImageDrawable(drawable.copy()?.let { d -> Tools.animate(d) })
+                                setImageDrawable(drawable.copy()?.let { d -> Tools.tryAnimate(d) })
                                 layoutParams = ViewGroup.LayoutParams(185.dp.toInt(), 185.dp.toInt())
                                 setPadding(0, 24.dp.toInt(), 0, 10.dp.toInt())
                             })

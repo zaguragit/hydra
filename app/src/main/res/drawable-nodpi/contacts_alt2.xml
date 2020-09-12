@@ -1,0 +1,52 @@
+<adaptive-icon
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <background>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="2.6458333"
+            android:viewportHeight="2.6458335">
+            <path
+                android:pathData="M0,0h2.64583v2.64583h-2.64583z"
+                android:fillColor="#252627"/>
+            <path
+                android:pathData="M0,0h2.64583v2.64583h-2.64583z">
+                <aapt:attr name="android:fillColor">
+                    <gradient
+                        android:startColor="#22ffffff"
+                        android:centerX="0.2"
+                        android:centerY="0.1"
+                        android:endColor="#0088ffff"
+                        android:gradientRadius="2.5"
+                        android:type="radial"/>
+                </aapt:attr>
+            </path>
+            <path
+                android:pathData="M1.32292,0h1.32292v2.64583h-1.32292z"
+                android:fillColor="#000000"
+                android:fillAlpha="0.176"/>
+        </vector>
+    </background>
+    <foreground>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="2.6458333"
+            android:viewportHeight="2.6458335">
+            <path
+                android:pathData="M1.32292,-6.65363m0,0a0,0 0,1 1,-0 0a0,0 0,1 1,0 0"
+                android:fillColor="#fafafa"/>
+            <path
+                android:pathData="M1.32294,-3.46295m0,0a0,0 0,1 1,-0 0a0,0 0,1 1,0 0"
+                android:fillColor="#fafafa"/>
+            <path
+                android:pathData="M0.93948,1.07797A0.09931,0.09931 45,0 0,0.84026 1.17719A0.09931,0.09931 45,0 0,0.93948 1.27641A0.09931,0.09931 135,0 0,1.0387 1.17719A0.09931,0.09931 135,0 0,0.93948 1.07797zM0.93948,1.33584A0.19861,0.19861 135,0 0,0.74104 1.53427L1.13792,1.53427A0.19861,0.19861 45,0 0,0.93948 1.33584z"
+                android:fillColor="#ffffff"/>
+            <path
+                android:pathData="M1.54564,1.04696C1.52382,1.04696 1.50637,1.06496 1.50637,1.08676C1.50637,1.10856 1.52382,1.12603 1.54564,1.12603L1.93942,1.12603C1.96124,1.12603 1.97869,1.10856 1.97869,1.08676C1.97869,1.06496 1.96124,1.04696 1.93942,1.04696L1.54564,1.04696zM1.54564,1.20458C1.52382,1.20458 1.50637,1.22257 1.50637,1.24437C1.50637,1.26617 1.52382,1.28364 1.54564,1.28364L1.93942,1.28364C1.96124,1.28364 1.97869,1.26617 1.97869,1.24437C1.97869,1.22257 1.96124,1.20458 1.93942,1.20458L1.54564,1.20458zM1.54564,1.36219C1.52382,1.36219 1.50637,1.38018 1.50637,1.40198C1.50637,1.42378 1.52382,1.44126 1.54564,1.44126L1.93942,1.44126C1.96124,1.44126 1.97869,1.42378 1.97869,1.40198C1.97869,1.38018 1.96124,1.36219 1.93942,1.36219L1.54564,1.36219zM1.54564,1.5198C1.52382,1.5198 1.50637,1.53728 1.50637,1.55908C1.50637,1.58088 1.52382,1.59887 1.54564,1.59887L1.93942,1.59887C1.96124,1.59887 1.97869,1.58088 1.97869,1.55908C1.97869,1.53728 1.96124,1.5198 1.93942,1.5198L1.54564,1.5198z"
+                android:fillColor="#000610"
+                android:fillAlpha="0.238"/>
+        </vector>
+    </foreground>
+</adaptive-icon>
