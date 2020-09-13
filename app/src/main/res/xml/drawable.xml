@@ -38,8 +38,10 @@
     <item drawable="fileexplorer_alt0"/>
 
     <item drawable="firefox"/>
+    <item drawable="firefox_alt0"/>
     <item drawable="firefox_focus"/>
     <item drawable="firefox_nightly"/>
+    <item drawable="firefox_nightly_alt0"/>
 
     <item drawable="fluidgestures"/>
 

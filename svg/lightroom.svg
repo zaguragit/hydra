@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="2457"
-   inkscape:export-xdpi="2457"
-   inkscape:export-filename="/media/leo/posidon/AndroidStuff/posidonLauncher/icons.svg.png"
-   sodipodi:docname="lightroom.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 2.6458333 2.6458334"
-   height="10"
-   width="10">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="2457"
+    inkscape:export-xdpi="2457" inkscape:export-filename="/media/leo/posidon/AndroidStuff/posidonLauncher/icons.svg.png"
+    sodipodi:docname="lightroom.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)" id="svg8"
+    version="1.1" viewBox="0 0 2.6458333 2.6458334" height="10" width="10">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,17 +12,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="5.0115252"
-     inkscape:cy="4.7792141"
+     inkscape:zoom="90.509668"
+     inkscape:cx="2.5570722"
+     inkscape:cy="6.0537609"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1322"
+     inkscape:window-width="2560"
      inkscape:window-height="1017"
-     inkscape:window-x="1238"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -57,7 +42,8 @@
      inkscape:snap-text-baseline="false"
      inkscape:snap-page="false"
      units="px"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        empopacity="0.20784314"
        empcolor="#1e1e1e"
@@ -669,17 +655,6 @@
          inkscape:export-xdpi="2457.6404"
          inkscape:export-ydpi="2457.6404" />
     </clipPath>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.9999685,-2.0000215,0,390.27499,287.47511)"
-       r="1.3228951"
-       fy="195.13541"
-       fx="3.4395838"
-       cy="195.13541"
-       cx="3.4395838"
-       id="radialGradient2203"
-       xlink:href="#linearGradient1058"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata5">
@@ -698,15 +673,13 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <path
-       style="opacity:0.10499998;fill:url(#radialGradient2203);fill-opacity:1;stroke:none;stroke-width:0.52916515"
-       d="m 2.6458117,295.6771 c 4e-5,1.05833 -0.2645399,1.32292 -1.32291,1.32293 -1.05830003,-10e-6 -1.322879922267,-0.2646 -1.322879922267,-1.32293 0,-1.05833 0.264579892267,-1.32292 1.322879922267,-1.32293 1.0583701,10e-6 1.32295,0.2646 1.32291,1.32293 z"
-       id="path2195"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/media/leo/posidon/android/hydra/app/src/main/res/drawable-nodpi/lightroom.png"
-       inkscape:export-xdpi="2457.6404"
-       inkscape:export-ydpi="2457.6404" />
+    <rect
+       style="opacity:1;fill:#041f32;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect948"
+       width="2.6458333"
+       height="2.6458333"
+       x="0"
+       y="294.35413" />
     <g
        transform="matrix(0.10000003,0,0,0.14285871,7.2760414,245.82083)"
        id="g2608"
@@ -762,18 +735,9 @@
        transform="translate(3.9687651,2.4931639e-6)"
        id="g1308" />
     <path
-       inkscape:export-ydpi="2457.6404"
-       inkscape:export-xdpi="2457.6404"
-       inkscape:export-filename="/home/leo/Documents/posidonicons/app/src/main/res/drawable-xhdpi/iconback.png"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path817-3"
-       d="m 2.6458334,295.6771 c 4.02e-5,1.05833 -0.2645399,1.32292 -1.32291,1.32293 -1.05829998,-10e-6 -1.322879972267,-0.2646 -1.322879972267,-1.32293 0,-1.05833 0.264579992267,-1.32292 1.322879972267,-1.32293 1.0583701,10e-6 1.3229502,0.2646 1.32291,1.32293 z"
-       style="opacity:1;fill:#022326;fill-opacity:0.86666667;stroke:none;stroke-width:0.52916515" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Posidon Sans';-inkscape-font-specification:'Posidon Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3df0f0;fill-opacity:1;stroke:none;stroke-width:0.14961581"
-       d="M 5 0 C 1.0001449 0.00011338583 -1.7763568e-15 0.99997485 0 5 C 0 9.0001007 1.0001449 10 5 10 C 9.00012 10 10.000151 9.0001007 10 5 C 10.000151 0.99997485 9.00012 0.00011338583 5 0 z M 5 0.5 C 8.681419 0.5 9.500059 1.3186268 9.5 5 C 9.500059 8.6816 8.681419 9.5003024 5 9.5 C 1.3184146 9.4996976 0.49977436 8.6816 0.5 5 C 0.5002256 1.3186268 1.3184146 0.5 5 0.5 z M 2.9765625 3.2207031 L 2.9765625 6.7792969 L 5.3476562 6.7792969 L 5.3476562 6.2070312 L 3.5488281 6.2070312 L 3.5488281 3.2207031 L 2.9765625 3.2207031 z M 7.3828125 3.9160156 C 6.9035734 3.9160156 6.5462739 4.0436719 6.3125 4.296875 C 6.0787261 4.5501285 5.9628906 4.8976268 5.9628906 5.3417969 L 5.9628906 6.7792969 L 6.5351562 6.7792969 L 6.5351562 5.3417969 C 6.5351563 4.7690725 6.8237463 4.4824219 7.4003906 4.4824219 L 7.4003906 3.9160156 L 7.3828125 3.9160156 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,294.35413)"
-       id="path2180" />
+       id="path945"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Posidon Sans';-inkscape-font-specification:'Posidon Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3dd7f0;fill-opacity:1;stroke:none;stroke-width:0.0897694"
+       d="M 3.7851562 3.9316406 L 3.7851562 6.0683594 L 5.2089844 6.0683594 L 5.2089844 5.7246094 L 4.1289062 5.7246094 L 4.1289062 3.9316406 L 3.7851562 3.9316406 z M 6.4296875 4.3496094 C 6.1421448 4.3496094 5.9273741 4.426188 5.7871094 4.578125 C 5.6468435 4.730062 5.578125 4.938697 5.578125 5.2050781 L 5.578125 6.0683594 L 5.921875 6.0683594 L 5.921875 5.2050781 C 5.921875 4.8615191 6.0934676 4.6894531 6.4394531 4.6894531 L 6.4394531 4.3496094 L 6.4296875 4.3496094 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,294.35413)" />
   </g>
 </svg>
