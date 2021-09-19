@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources translatable="false">
+    <string name="app_name">Hydra</string>
+    <string name="github_link">https://github.com/leoxshn/hydra</string>
+</resources>
